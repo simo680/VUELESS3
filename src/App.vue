@@ -18,15 +18,16 @@ export default {
     <Head></Head>
   </header>
   <main class="max-width">
-    <About ></About>
+    <About></About>
     <Skills></Skills>
   </main>
   <footer class="max-width">
-    <Contact ></Contact>
+    <Contact></Contact>
   </footer>
 </template>
 
 <style scoped>
+
 
 
 </style>

@@ -42,4 +42,12 @@ h2 {
 .text {
   text-align: center;
 }
+
+
+@media (max-width: 430px) {
+  .wrapper {
+    padding: 60px;
+  }
+}
+
 </style>
